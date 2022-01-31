@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(2, 25, 32);
+    background-image: url(002.png);
+    background-color: rgb(20, 14, 11);
   }
   
   h1 {
@@ -14,12 +15,15 @@ body {
 
   h3 {
     text-align: center ;
+    color :rgb(39, 182, 182);
+    font-size: 25px;
   }
   
   p {
     font-family: verdana;
     font-size: 20px;
     text-align: center ;
+    color :rgb(39, 182, 182);
   }
 
   
